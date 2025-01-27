@@ -6,22 +6,22 @@ export default function Portfolio() {
     <>
       <h2>This is my Portfolio!</h2>
       <div>
-        <a href="renderlinkhere/">
+        <a href="https://texteditorrr.onrender.com/">
           <img className="project1" src="/assets/project1.jpg" />
         </a>
-        <a href="githublinkhere">
+        <a href="https://github.com/maritzadiaz77/TextEditorrr">
           <br></br>
-          <button className="ghbutton">Github Repostitory</button>
+          <button className="ghbutton">Github Repository</button>
         </a>
       </div>
       <div>
-        {/* <a href="renderlinkhereee">
-          <img className="portpicture" src={lalogo} />
+        <a href="https://texteditorrr.onrender.com/">
+          <img className="project2" src="/assets/project2.jpg" />
         </a>
-        <a href="githublinkhereee">
+        <a href="https://github.com/maritzadiaz77/TextEditorrr">
           <br></br>
           <button className="ghbutton">A Github Repostitory!!</button>
-        </a> */}
+        </a>
       </div>
     </>
   );
