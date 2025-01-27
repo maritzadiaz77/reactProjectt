@@ -1,9 +1,10 @@
 # reactProjectt
 
 ## Description
+
 My professional portfolio
 
-Deployed Link:(this will be a netlify link)
+Deployed Link:[(this will be a netlify link)](https://lucky-pasca-1f3c61.netlify.app/)
 
 ## Table of Contents
 
@@ -18,17 +19,16 @@ All you need is VS code and a Browser.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![screnshot of portfolio](/src/assets/portscreenshot.png)
-    ```
-
+screenshots
+![screenshot of my react portfolio](/public/assets/1readme.png)
+![screenshot of my project](/public/assets/2readme.png)
+![screenshot of my the project it takes you to](/public/assets/3readme.png)
+Here is a link to my github 
+https://github.com/maritzadiaz77/reactProjectt 
 ## Credits
+
 Class Activities and tutoring!
 
 ## License
-NA
 
+NA
